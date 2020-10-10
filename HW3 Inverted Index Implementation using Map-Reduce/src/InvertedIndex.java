@@ -1,5 +1,4 @@
 // Soheil Nazar Shahsavani 
-// nazarsha@usc.edu
 
 import java.util.StringTokenizer;
 import java.util.HashMap;
