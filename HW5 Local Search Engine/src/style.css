@@ -1,0 +1,32 @@
+
+body {
+font-size: 15px;
+font-family: sans-serif;
+}
+
+#suggestions {
+display : none;
+z-index : 10;
+position: absolute;
+border: 1px black solid;
+background : white;
+}
+
+#suggestions ul {
+
+  list-style-type: none;
+
+}
+
+
+.link_class {
+  color: green;
+  font-size: 12px;
+}
+
+
+table td, table th {
+max-width : 800px;
+overflow: hidden;
+
+}
